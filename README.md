@@ -8,5 +8,4 @@ I am working as Data Scientist Intern at Gamaka AI Solutions I am passionate abo
 
 My Recent projects
 
-Skills
-
+Skills ⬇⬇⬇
