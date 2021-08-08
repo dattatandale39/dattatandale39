@@ -4,8 +4,18 @@ I am working as Data Scientist Intern at Gamaka AI Solutions I am passionate abo
 
 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning,deep learning and Deployment.
 🤝 Open for job in analytics,data science and python
-👨 Know more about me at My Resume
+👨 Know more about me at [My Resume](add your google drive resume link here)
 
 My Recent projects
 
 Skills ⬇⬇⬇
+
+Scripting and libraries : Python,NumPy,Pandas,Sklearn,Plotly,Seaborn,Matplotlib,Tensorflow,Keras
+
+Data science: Machine Learning,Deep Learning,EDA
+
+Big Data: Hadoop,Spark(PySpark),SparkML,DataBricks,Hive
+
+Database:SQL-RDS,NoSql-Mongodb,DynamoDB
+
+Cloud:AWS-Sagemaker,HEROKU,Google Colab
