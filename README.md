@@ -10,6 +10,8 @@ My Recent projects
 
 [Car_price_prediction](https://github.com/dattatandale39/car_price_prediction)
 
+[house_price_prediction](https://github.com/dattatandale39/House_Price-_prediction)
+
 Skills ⬇⬇⬇
 
 Scripting and libraries : Python,NumPy,Pandas,Sklearn,Plotly,Seaborn,Matplotlib,Tensorflow,Keras
