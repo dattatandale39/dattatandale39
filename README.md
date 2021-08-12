@@ -7,6 +7,7 @@ I am working as Data Scientist Intern at Gamaka AI Solutions I am passionate abo
 👨 Know more about me at [My Resume](add your google drive resume link here)
 
 My Recent projects
+[Car_price_prediction](https://github.com/dattatandale39/car_price_prediction)
 
 Skills ⬇⬇⬇
 
