@@ -4,7 +4,7 @@ I am working as Data Scientist Intern at Gamaka AI Solutions I am passionate abo
 
 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning,deep learning and Deployment.
 🤝 Open for job in analytics,data science and python
-👨 Know more about me at [My Resume](add your google drive resume link here)
+👨 Know more about me at [datta tandale](http://dattatandale.rf.gd/)
 
 My Recent projects
 
