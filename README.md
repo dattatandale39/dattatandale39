@@ -10,7 +10,7 @@ My Recent projects
 
 [Car_price_prediction](https://github.com/dattatandale39/car_price_prediction)
 
-[house_price_prediction](https://github.com/dattatandale39/House_Price-_prediction)
+[house_price_project](https://github.com/dattatandale39/House_Price_project)
 
 Skills ⬇⬇⬇
 
